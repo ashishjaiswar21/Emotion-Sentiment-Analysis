@@ -1,0 +1,16 @@
+# Python
+__pycache__/
+*.pyc
+
+# Virtual environment
+.venv/
+env/
+
+# SQLite database
+emotion_app.db
+
+# VS Code
+.vscode/
+
+# System files
+.DS_Store
